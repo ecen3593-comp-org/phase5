@@ -23,7 +23,9 @@
  *  \date   09.02.2022
  *  \brief  Write-back - cycle accurate model
  */
-
+#include "debug.hcodal"
+#include "ca_defines.hcodal"
+#include "config.hcodal"
 // -------------------------------------------------------------------------------------------------
 // Write-Back Stage
 // -------------------------------------------------------------------------------------------------
